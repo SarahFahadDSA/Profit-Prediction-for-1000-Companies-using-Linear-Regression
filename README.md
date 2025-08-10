@@ -2,6 +2,9 @@
 
 This project is part of the **Introduction to Data Science** course by **Simplilearn**. It focuses on building a linear regression model to predict the profit of 1000 companies based on their R&D, administration, and marketing expenditures.
 
+I’m sharing this project for anyone who wants to learn how to build a linear regression model. It provides a clear and practical example of using Python for real-world data science tasks. Enjoy exploring! ❤️
+
+
 ## Project Overview
 
 The goal is to analyze the relationship between company expenses and profit, and to create a predictive model that estimates profit from these expenses. The dataset contains financial data of 1000 companies, including:
@@ -28,14 +31,11 @@ The goal is to analyze the relationship between company expenses and profit, and
 - Scikit-learn  
 - Matplotlib / Seaborn (for visualization)
 
+
 ## How to Run
 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/1000-companies-profit-prediction.git
-
-
-
-   I’m sharing this project for anyone who wants to learn how to build a linear regression model. It provides a clear and practical example of using Python for real-world data science tasks. Enjoy exploring! ❤️
 
 
